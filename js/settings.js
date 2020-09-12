@@ -1,5 +1,5 @@
-var MAPBOX_TOKEN = 'pk.eyJ1IjoiZGNoYXJ2ZXkiLCJhIjoiY2s5N3Zjc3ZxMGYwazNlbm9ubzA1d3Q1dCJ9.szxUl4AKCdUNLlmvham6og'
-var MAPBOX_STYLE = 'mapbox://styles/dcharvey/ck90r78ib0hnp1jnz9bwleg7h'
+var MAPBOX_TOKEN = 'pk.eyJ1Ijoibm9sYW5wc3RlciIsImEiOiJja2YwNTJtcTAwaTJxMnJsZTgybWR1eGQ1In0.uyH_vgbpUmqb5FTTXZ9zVg'
+var MAPBOX_STYLE = 'mapbox://styles/nolanpster/ckf051glb2tnt19plg230lapg'
 var SIDEWALKS_TILESET = 'mapbox://dcharvey.1typxzdb'
 var SIDEWALKS_LAYER = 'sidewalkwidths_nyc-87ugfr'
 var DISTRICTS_TILESET = 'mapbox://dcharvey.7dbzv200'
